@@ -32,7 +32,6 @@ body.dark-theme {
   padding: 16px 24px;
 }
 
-/* THEME SWITCH */
 .theme-switch {
   display: flex;
   align-items: center;
@@ -108,8 +107,6 @@ body.dark-theme {
 .theme-switch__toggle:active + .theme-switch__track {
   box-shadow: 0 0 0 3px #2196f3;
 }
-
-/* MENU */
 
 .menu {
   padding: 0;
